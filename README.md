@@ -1,7 +1,8 @@
 ```cs
 Console.WriteLine('Hello World!');
+Console.ForegroundColor = Console.Color.blue;
+Console.WriteLine('JavaScript, C++ and C# developer');
 ```
-JavaScript, C++ and C# developer
 
 ## My projects:
 - <a href="https://vavebot.pl/">Bot for Discord</a>
