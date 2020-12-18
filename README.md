@@ -1,4 +1,6 @@
-### Hi there 👋
+```cs
+Console.WriteLine('Hello World!');
+```
 JavaScript, C++ and C# developer
 
 ## My projects:
@@ -7,4 +9,7 @@ JavaScript, C++ and C# developer
 - Own operating system
 - and other shit...
 
-<iframe src="https://vavebot.pl/"></iframe>
+[Check my bot](https://vavebot.pl/add) | [Support server](https://discord.gg/YvvKxrB)
+
+
+**Contact me on Discord:** *`!                Wcale nie Matti#2100`*
