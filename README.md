@@ -1,4 +1,10 @@
 ### Hi there 👋
-Whats up?
+JavaScript, C++ and C# developer
 
-🖥️ Website: [*click*](https://vavebot.pl/)
+## My projects:
+- <a href="https://vavebot.pl/">Bot for Discord</a>
+- ScriptChip API
+- Own operating system
+- and other shit...
+
+<iframe src="https://vavebot.pl/"></iframe>
