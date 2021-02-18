@@ -1,6 +1,6 @@
 ```cs
 Console.WriteLine('Hello World!');
-Console.ForegroundColor = Console.Color.blue;
+Console.ForegroundColor = Console.Color.Blue;
 Console.WriteLine('JavaScript, C++ and C# developer');
 ```
 
