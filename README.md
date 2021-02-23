@@ -1,7 +1,7 @@
 ```cs
 Console.WriteLine('Hello World!');
 Console.ForegroundColor = Console.Color.Blue;
-Console.WriteLine('JavaScript, C++ and C# developer');
+Console.WriteLine('JavaScript, TypeScript, C++ and C# developer');
 ```
 
 ## My projects:
