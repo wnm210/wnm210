@@ -6,7 +6,7 @@ Console.WriteLine('JavaScript, TypeScript, C++ and C# developer');
 
 ## My projects:
 - <a href="https://vavebot.pl/">Bot for Discord</a>
-- <a href="https://vavebot.pl/rpc">RPC Launcher</a>
+- <a href="https://vavebot.pl/rpc">RPC for Discord</a>
 - Star Warriors
 - Nove Fire
 - ScriptChip API
