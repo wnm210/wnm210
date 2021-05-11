@@ -1,4 +1,4 @@
-![head_image](https://wnm210.github.io/wnm210/wnm210.svg)<br />
+![head_image](https://wnm210.github.io/wnm210/wnm210.png)<br />
 ```cs
 Console.WriteLine('Hello World!');
 Console.ForegroundColor = ConsoleColor.Blue;
