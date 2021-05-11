@@ -4,6 +4,7 @@ Console.WriteLine('Hello World!');
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine('Check out my super cool website - vave.pro. Any questions? DM me on Discord');
 ```
+**Discord:** `wnm210#2100` or [join my guild](https://discord.gg/4KMSbpE)
 
 ![my projects](https://wnm210.github.io/wnm210/my_projects.svg)<br />
 [`Nove RPC`](https://nove.team/apps/rpc)
@@ -12,6 +13,3 @@ Console.WriteLine('Check out my super cool website - vave.pro. Any questions? DM
 [`vave`](https://vave.pro/)
 [`Lighter`](https://light.party/)
 [`Star Warriors`](https://github.com/wnm210)<br />
-<br />
-![contact broken](https://wnm210.github.io/wnm210/cont.svg)<br />
-**Discord:** `wnm210#2100` or [join my guild](https://discord.gg/4KMSbpE)
