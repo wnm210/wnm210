@@ -13,5 +13,5 @@ Console.WriteLine('Check out my super cool website - vave.pro. Any questions? DM
 [`Lighter`](https://light.party/)
 [`Star Warriors`](https://github.com/wnm210)<br />
 <br />
-![contact](https://wnm210.github.io/wnm210/contact.svg)<br />
+![contact](https://wnm210.github.io/wnm210/cont.svg)<br />
 **Discord:** `wnm210#2100` or [join my guild](https://discord.gg/4KMSbpE)
