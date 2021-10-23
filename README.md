@@ -2,7 +2,7 @@
 ```cs
 Console.WriteLine("Hello, CSharp!");
 Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine("I\'m Matthew, front-end and back-end developer from Colombia.");
+Console.WriteLine("I\'m Matthew, front-end and back-end developer not from Colombia.");
 ```
 **Reach me on Discord:** `wnm210#3531` or [join my community](https://discord.gg/4KMSbpE)<br /><br />
 :receipt: **Positions**<br>
