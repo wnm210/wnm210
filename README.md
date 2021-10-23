@@ -1,10 +1,23 @@
 ![head_image](https://wnm210.github.io/wnm210/wnm210.png)<br />
 ```cs
-Console.WriteLine('Hello World!');
+Console.WriteLine("Hello, CSharp!");
 Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine('Check out my super cool website - vave.pro. Any questions? DM me on Discord');
+Console.WriteLine("I\'m Matthew, front-end and back-end developer from Colombia.");
 ```
-**Discord:** `wnm210#2100` or [join my guild](https://discord.gg/4KMSbpE)
+**Reach me on Discord:** `wnm210#3531` or [join my community](https://discord.gg/4KMSbpE)<br /><br />
+:receipt: **Positions**<br>
+&nbsp; &nbsp; &nbsp;**`CEO` `@`** [`Nove, change the world`](https://nove.team)<br>
+&nbsp; &nbsp; &nbsp;**`Web Developer` `@`** [`LabsHQ`](https://labs.surf)
 
-![my projects](https://wnm210.github.io/wnm210/my_projects.svg)<br />
-`Soon..`
+:computer: **I work with**<br>
+&nbsp; &nbsp; &nbsp;**`CSharp`
+`CPlusPlus`
+`JavaScript`
+`TypeScript`
+`next.js`
+`vue.js`
+`HTML`
+`CSS`
+`Sass`
+`SCSS`
+`Electron`**
