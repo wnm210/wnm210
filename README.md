@@ -2,7 +2,7 @@
 ```cs
 Console.WriteLine("Hello, CSharp!");
 Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine("I'm Matthew, developer from Poland. I often browse codepen and I enjoy making UI/UX designs.");
+Console.WriteLine("I'm Matthew, developer from Poland. I often browse Twitter & codepen and I enjoy making UI/UX designs.");
 ```
 ![projects](https://user-images.githubusercontent.com/49320100/148188236-728e2237-4de2-47d9-95b1-8c297529594c.png)
 
