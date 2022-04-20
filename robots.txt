@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wnm210.me/sitemap.xml
