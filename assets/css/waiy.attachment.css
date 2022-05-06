@@ -1,0 +1,59 @@
+.ms-attachment {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0.2rem 0.4rem -0.075rem;
+  width: 100%;
+  border: 1px solid rgb(70, 70, 70);
+  background: rgb(37, 37, 41);
+  margin: 0.125rem;
+  padding: 0.4375rem 0.1875rem;
+  min-height: 3rem;
+  max-width: 27.5rem;
+  -webkit-box-align: center;
+  align-items: center;
+  position: relative;
+  color: rgb(243, 243, 243);
+  display: inline-flex;
+  box-sizing: border-box;
+  text-align: left;
+  border-radius: 4px;
+  font-family: "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+}
+.ms-attachment .icon {
+  margin: 0 0.72rem 0 0.42rem;
+  width: 2rem;
+  height: 2rem;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+}
+.ms-attachment .text {
+  flex: 1 1 0%;
+  box-sizing: border-box;
+  color: rgb(243, 243, 243);
+  text-align: left;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.4286;
+  unicode-bidi: isolate;
+  font-weight: 600;
+  display: block;
+  font-size: 0.875rem;
+  user-select: none;
+}
+.ms-attachment .header {
+  flex: 1 1 0%;
+  box-sizing: border-box;
+  color: rgb(243, 243, 243);
+  text-align: left;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.4286;
+  unicode-bidi: isolate;
+  font-weight: 600;
+  display: block;
+  font-size: 0.875rem;
+  user-select: none;
+  margin-bottom: -8px;
+}
+.ms-attachment .size {
+  font-size: 11px;
+  margin-left: 1px;
+}
+
+/*# sourceMappingURL=waiy.attachment.css.map */
