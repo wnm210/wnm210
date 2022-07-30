@@ -1,9 +1,4 @@
 ![rebrand](https://user-images.githubusercontent.com/49320100/148186778-0ad07657-ef28-4f73-9f16-f498094c0609.png)
-```cs
-Console.WriteLine("Hello, CSharp!");
-Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine("I'm Matthew, developer from Poland. I often browse Twitter & codepen and I enjoy making UI/UX designs.");
-```
 ![projects](https://user-images.githubusercontent.com/49320100/153750617-1ac816a2-98d1-42e6-89ff-bdc88949b7f3.png)
 
 <!-- 🚩 **Reach me on Discord:** `wnm210#3531` or [join my community](https://discord.gg/4KMSbpE)<br /> -->
